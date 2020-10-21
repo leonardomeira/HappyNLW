@@ -1,6 +1,6 @@
 <p align="center"><img src=".github/happy-logo.svg"></p>
 
-<br><br>
+<br>
 
 O Happy é uma plataforma cujo objetivo é trazer mais alegria às vidas de milhares de crianças por meio da localização dos orfanatos mais próximos do usuário. É, em homenagem ao Dia das Crianças o tema da terceira edição da Next Level Week, evento gratuito realizado pela Rocketseat.<br><br>
 
