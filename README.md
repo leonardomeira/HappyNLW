@@ -19,4 +19,4 @@ O Happy é uma plataforma cujo objetivo é trazer mais alegria às vidas de milh
 
 <p align="center"><img style="max-height:300px" src=".github/used-tech.png"></p>
 
-LICENSE: Este projeto encontra-se sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
+<b> LICENSE: Este projeto encontra-se sob a licença MIT. Veja [LICENSE](LICENSE) para mais informações.
