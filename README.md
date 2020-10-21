@@ -9,7 +9,7 @@ O Happy é uma plataforma cujo objetivo é trazer mais alegria às vidas de milh
 
 ## Conceitos Abordados
 
-## ><b>• SPA - Single Page Application</b><br>
+#### <b>• SPA - Single Page Application</b><br>
 #### • Tipagem - Utilização Extensa do TypeScript para estruturação e manipulação dinâmicas do DOM<br>
 #### <b>• Responsividade - Mobile First</b><br>
 #### • Banco de Dados com SQLite e TypeScript - TypeORM<br>
